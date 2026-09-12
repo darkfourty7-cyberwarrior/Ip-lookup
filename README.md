@@ -83,10 +83,6 @@ Previous lookups can be stored locally so that you can review them later.
 
 The stored lookup history can be cleared from the tool.
 
-🔴 Matrix Interface
-
-The project starts with a red Matrix-style terminal animation and uses a dark security-console aesthetic.
-
 ---
 
 📦 Installation
