@@ -124,7 +124,7 @@ cd Ip-lookup
 
 7. Run DARK IP CONNECTOR
 
-python dark_ip.py
+python Dark ip connector.py
 
 ---
 
@@ -137,7 +137,7 @@ pkg install python -y
 pip install requests
 git clone https://github.com/darkfourty7-cyberwarrior/Ip-lookup.git
 cd Ip-lookup
-python Ip connector.py
+python Dark ip connector.py
 
 ---
 
