@@ -1,4 +1,4 @@
-🔴 DARK IP CONNECTOR
+⚫️ DARK IP CONNECTOR
 
 IP Intelligence & Approximate Geolocation Tool for Termux
 
@@ -137,7 +137,7 @@ pkg install python -y
 pip install requests
 git clone https://github.com/darkfourty7-cyberwarrior/Ip-lookup.git
 cd Ip-lookup
-python dark_ip.py
+python Ip connector.py
 
 ---
 
@@ -389,4 +389,4 @@ Always follow applicable laws, regulations, terms of service, and authorization 
 
 IP intelligence databases can contain inaccurate, outdated, or incomplete information. Geographic results are estimates and should not be interpreted as exact physical locations.
 
-Use responsibly. Stay legal. Learn. Build.
+Use responsibly. Stay safe.
